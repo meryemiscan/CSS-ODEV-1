@@ -1,0 +1,19 @@
+
+.text-pink {
+    color: rgb(217, 100, 139);
+    font-size: xx-large;
+}
+
+.text-white {
+    color: rgb(247, 125, 180);
+    font-size: larger;
+}
+
+h1,p {
+    text-align: center;
+}
+
+.div {
+    text-align: center;
+    font-size: large;
+}
